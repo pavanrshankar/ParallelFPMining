@@ -1,4 +1,4 @@
-SETUP
+## SETUP
 
     (1) Install IntellJ IDEA 15 Community Edition
 
@@ -11,7 +11,7 @@ SETUP
 
     (5) Run Dropwizard application
 
-RESOURCES EXPOSED
+## RESOURCES EXPOSED
 
     (1) /group
 
@@ -21,7 +21,7 @@ RESOURCES EXPOSED
 
         Description: Finds frequent patterns and rules from data.txt transaction. 
 
-DETAILS
+## DETAILS
 
     Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not 
     focus on solution. Data size included in the demo is small, used for testing purposes.
