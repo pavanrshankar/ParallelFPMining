@@ -9,9 +9,11 @@ URL RESOURCES EXPOSED
 -http://localhost:5000/group
  Groups students based on section
 -http://localhost:5000/mineRules/{support}/{confidence}
- Finds frequent patterns and rules from data.txt transaction. Support and Confidence is between 0 and 1(inclusive)
+ Finds frequent patterns and rules from data.txt transaction. 
+ Support and Confidence is between 0 and 1(inclusive)
 
 DETAILS
--Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not focus on solution
+-Aim of this demo is to introduce to libraries exposed by 
+ Apache Spark(Spark SQL,Spark Mlib) and not focus on solution
 -Data size included in the demo is small, used for testing purposes
 
