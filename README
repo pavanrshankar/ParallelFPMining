@@ -1,6 +1,6 @@
 SETUP
 -Install IntellJ IDEA 15 Community Edition
--Install 1.7 JAVA versin
+-Install 1.7 JAVA version
 -Add a student_info table to outbound_messages database in MySQL
 -Create id(int),rollno(int,primary key),section(int),grades(varchar) columns in student_info
 -Run Dropwizard application
