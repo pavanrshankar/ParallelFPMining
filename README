@@ -8,12 +8,10 @@ SETUP
 URL RESOURCES EXPOSED
 -http://localhost:5000/group
  Groups students based on section
--http://localhost:5000/mineRules/{support}/{confidence} where support and confidence is between 0 and 1(inclusive)
- Finds frequent patterns and rules from data.txt transaction
+-http://localhost:5000/mineRules/{support}/{confidence}
+ Finds frequent patterns and rules from data.txt transaction. Support and Confidence is between 0 and 1(inclusive)
 
 DETAILS
-Demo does not include any information that is Flipkart related. It includes a subset of what was solved as part of internship.
-Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not focus on impact of solution.
-Data size included in the demo is small, used for testing purposes. One hast to work on huge data sizes, order greater than 1GB, 
-to get performance improvement from a sequential approach.
+-Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not focus on solution
+-Data size included in the demo is small, used for testing purposes
 
