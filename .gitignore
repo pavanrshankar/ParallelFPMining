@@ -1,0 +1,5 @@
+.idea/
+*.iml
+target/
+dropwizard-svc/target/
+spark-executor/target/
