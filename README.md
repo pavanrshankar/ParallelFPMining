@@ -20,4 +20,4 @@ Resources
 
 Details
 ====
-Aim of this project is to implement Frquent Pattern Mining algorithm parallely and Grouping by Map-Reduce using Apache Spark. 
+Aim of this project is to implement Frquent Pattern Mining algorithm parallely using Apache Spark. 
