@@ -1,4 +1,5 @@
 
+
 Setup
 ====
 
@@ -9,7 +10,6 @@ Setup
 >(3)Install MySQL 
 
 >(4)Create student_info table in  outbound_messages database 
- 
     Columns: id(int),rollno(int,primary key),section(int),grades(varchar)
 
 >(5)Run Dropwizard application
