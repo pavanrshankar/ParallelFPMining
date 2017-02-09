@@ -1,3 +1,4 @@
+
 Setup
 ====
 
@@ -25,6 +26,5 @@ Resources
 
 Details
 ====
-    Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not 
-    focus on solution. Data size included in the demo is small, used for testing purposes.
+Aim of this demo is to introduce to libraries exposed by Apache Spark(Spark SQL,Spark Mlib) and not focus on solution. Data size included in the demo is small, used for testing purposes.
 
