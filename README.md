@@ -2,25 +2,24 @@
 Setup
 ====
 
->Install IntellJ IDEA 15 Community Edition
+>(1)Install IntellJ IDEA 15 Community Edition
 
->Use 1.7 version for JAVA
+>(2)Use 1.7 version for JAVA
 
->Install MySQL 
+>(3)Install MySQL 
 
->Create student_info table in  outbound_messages database 
- Columns: id(int),rollno(int,primary key),section(int),grades(varchar)
+>(4)Create student_info table in  outbound_messages database 
+ 
+    Columns: id(int),rollno(int,primary key),section(int),grades(varchar)
 
->Run Dropwizard application
+>(5)Run Dropwizard application
 
 Resources
 ====
 
->/group
- Description: Groups students based on section
+>/group: Groups students based on section
 
->/mineRules/{support}/{confidence}
- Description: Finds frequent patterns and rules from data.txt transaction. 
+>/mineRules/{support}/{confidence}: Finds frequent patterns and rules from data.txt transaction. 
 
 Details
 ====
